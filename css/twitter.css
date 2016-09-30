@@ -1,0 +1,28 @@
+navbar-right-button{
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+nasa-handle{
+  text-align: right;
+}
+
+img/spiralgalaxy.jpg{
+  width: 100%;
+}
+
+top-half{
+  border-bottom: 5px;
+}
+
+first-div{
+  float: left;
+}
+
+second-div{
+  border-bottom: 5px;
+}
+
+reply-box{
+  background-color: lightgrey!important;
+}
